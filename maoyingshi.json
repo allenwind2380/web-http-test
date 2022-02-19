@@ -1102,7 +1102,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "https://gitee.com/luobenji/luobenji/raw/master/custom_spider.jar",
+  "spider": "https://raw.fastgit.org/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
 
   "ijk": [
     {
